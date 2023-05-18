@@ -35,3 +35,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="réagir" width="40" height="40"/> </a>  </p>
+   
+   <h6 align="right"><p><a href="http://www.freepik.com">Illustration designed by upklyak / Freepik</a></p></h6>
