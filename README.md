@@ -5,15 +5,15 @@
 
 
 
-- 🌱 Je suis toujours en apprentissage et perfectionnement de **HTML, CSS, SASS, et Javascript et React, ReactNativ**
+- 🌱 Je suis toujours en apprentissage de **Javascript et React, ReactNativ** et en  perfectionnement de **HTML, CSS, SASS**
 
 - 📫 Pour me contacter **pittyo88@gmail.com**
 
-<h3 align="left">Se connecter avec moi :</h3>
+<h3 align="left">Mes réseaux:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yoann-pitance-8a974324b" target="blank"><img align="center" src= "<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg>" hauteur= "30" width="40" /></a>
-<a href="https://fb.com/pittyart88" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pittyart88" height="30" width="40" /></a>
-<a href="https://instagram.com/_pittyart_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="_pittyart_" height="30" width="40" /></a> </p>
+<a href="https://linkedin.com/in/yoann-pitance-8a974324b" target="blank"><img align="center" src= "https://github.com/YoannPitance/YoannPitance/blob/main/img/linkedin.png" hauteur= "30" width="30" /></a>
+<a href="https://fb.com/pittyart88" target="blank"><img align="center" src="https://github.com/YoannPitance/YoannPitance/blob/main/img/facebook.png" height="30" width="30" /></a>
+<a href="https://instagram.com/_pittyart_" target="blank"><img align="center" src="https://github.com/YoannPitance/YoannPitance/blob/main/img/instagram.png" alt="_pittyart_" height="30" width="30" /></a> </p>
 <
 
 h3 align="left">Langues et Outils :</h3>
