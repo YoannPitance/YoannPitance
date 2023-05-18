@@ -1,4 +1,4 @@
-![Cover](https://github.com/YoannPitance/YoannPitance/img/moi2.jpg)
+![Cover](https://github.com/YoannPitance/YoannPitance/master/img/moi2.jpg)
 
 <!--
 **YoannPitance/YoannPitance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
