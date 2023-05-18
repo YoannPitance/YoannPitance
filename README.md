@@ -1,6 +1,8 @@
 ![Baner](https://github.com/YoannPitance/YoannPitance/blob/main/img/codebanner.jpg)
 
-<h1>Salut 👋, je suis Yoann</h1>
+<h1>Salut 👋, je suis Yoann 
+<p> <img src="https://github.com/YoannPitance/YoannPitance/blob/main/img/img1.jpg" align="right" height="300" width="500"/></p></h1>
+   
 <h3>Actuellement en reconversion dans le monde du développement web, j'ai passé mon diplôme de développeur Intégrateur web chez Openclassrooms. Je suis depuis toujours passionné de technologies en tout genre et j'ai un sens artistique assez aiguisé que j'ai toujours su cultiver. Geek dans l'âme et adepte de la Pop Culture j'aime continuer de voir le monde d'aujourd'hui avec mes yeux et mon âme d'enfant !</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=yoannpitance&label=Profile%20views&color=0e75b6&style=flat" alt="yoannpitance" /> </p>
@@ -13,7 +15,7 @@
 
 <h3 align="left">Mes réseaux:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yoann-pitance-8a974324b" target="blank"><img align="center" src= "https://github.com/YoannPitance/YoannPitance/blob/main/img/linkedin.png" hauteur= "30" width="30" /></a>
+<a href="https://linkedin.com/in/yoann-pitance-8a974324b" target="blank"><img align="center" src= "https://github.com/YoannPitance/YoannPitance/blob/main/img/linkedin.png" height= "30" width="30" /></a>
 <a href="https://fb.com/pittyart88" target="blank"><img align="center" src="https://github.com/YoannPitance/YoannPitance/blob/main/img/facebook.png" height="30" width="30" /></a>
 <a href="https://instagram.com/_pittyart_" target="blank"><img align="center" src="https://github.com/YoannPitance/YoannPitance/blob/main/img/instagram.png" alt="_pittyart_" height="30" width="30" /></a> </p>
 
