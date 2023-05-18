@@ -1,7 +1,7 @@
 ![Baner](https://github.com/YoannPitance/YoannPitance/blob/main/img/codebanner.jpg)
 
 <h1>Salut 👋, je suis Yoann 
-<p> <img src="https://github.com/YoannPitance/YoannPitance/blob/main/img/img1.jpg" align="right" height="300" width="500"/></p></h1>
+<p> <img src="https://github.com/YoannPitance/YoannPitance/blob/main/img/img1.jpg" align="right" height="50%" width="50%"/></p></h1>
    
 <h3>Actuellement en reconversion dans le monde du développement web, j'ai passé mon diplôme de développeur Intégrateur web chez Openclassrooms. Je suis depuis toujours passionné de technologies en tout genre et j'ai un sens artistique assez aiguisé que j'ai toujours su cultiver. Geek dans l'âme et adepte de la Pop Culture j'aime continuer de voir le monde d'aujourd'hui avec mes yeux et mon âme d'enfant !</h3>
 
